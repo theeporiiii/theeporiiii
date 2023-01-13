@@ -1,0 +1,49 @@
+*{
+   margin:0;
+   margin:0;
+}
+body{
+    background-size:cover
+}
+  
+header{
+    background-color:black;
+    
+}
+.head-tag {
+    float:right;
+    margin-top: 33px;
+    margin-right:55px;
+}
+.head-tag a{
+    color:white;
+    text-decoration:none;
+    border:1px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 8px;
+    margin-right:9px;
+}
+.head-tag a:hover{
+    color:black;
+    background-color: blueviolet;
+transition:.5s ease-in-out;
+
+
+}
+.login{
+    border:2px solid red;
+    padding:30px;
+    float:right;
+    background-color:beige
+
+
+}
+.login h2{
+    color:white;
+}
+
+#login-button{
+        width:100%;
+        background-color: brown;
+    }
+
